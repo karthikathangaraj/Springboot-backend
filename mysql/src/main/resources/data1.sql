@@ -1,0 +1,1 @@
+insert into Client values (1,'karthika');
