@@ -1,0 +1,1 @@
+insert into stud values (1,'karthika',789);
